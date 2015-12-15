@@ -1,0 +1,28 @@
+name: IDECYDE
+favicon: null
+layout_spectrum: 0.2588820548262447
+typography_spectrum: 0.728671370074153
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.026432475075125694
+  lightness: 0.12609678343869746
+  saturation: 0.9288710576947778
+  rhythmicContrast: 0.15835212892852724
+purpose: []
