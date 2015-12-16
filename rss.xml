@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Information for the Enterprise]]></title>
-        <description><![CDATA[Information for the Enterprise]]></description>
+        <title><![CDATA[ Enterprise Applications Strategy ]]></title>
+        <description><![CDATA[ Enterprise Applications Strategy ]]></description>
         <link>https://thegrid.ai/idecyde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 10:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 20:18:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/idecyde/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Enterprise Apps: The Next Generation | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Enterprise Apps: The Next Generation | ZDNet</h1><p>Inside this Special Feature: Enterprise Apps: The Next Generation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d809a65b3365ecd3592facabac8bf65a93bc30b3.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/topic/enterprise-apps-the-next-generation/?tag=nl.e004&amp;s_cid=e004&amp;ttag=e004&amp;ftag=TRE001a825</link>
+            <guid isPermaLink="false">1c6d958e-6064-4430-a62d-01a4deeaa22f</guid>
+            <pubDate>Wed, 16 Dec 2015 20:17:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f5129a5-75a9-46be-b9f3-b5201d46cb5e.png">]]></description>
