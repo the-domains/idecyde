@@ -1,6 +1,6 @@
 name: IDECYDE
 favicon: null
-layout_spectrum: 0.2588820548262447
+layout_spectrum: 0.75273
 typography_spectrum: 0.728671370074153
 title: ' Enterprise Applications Strategy '
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#fffffe'
+    - '#3e403f'
+    - '#d68059'
+    - '#88b97f'
+    - '#00ffff'
   brandStrength: 0.026432475075125694
   lightness: 0.12609678343869746
-  saturation: 0.9288710576947778
-  rhythmicContrast: 0.15835212892852724
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
