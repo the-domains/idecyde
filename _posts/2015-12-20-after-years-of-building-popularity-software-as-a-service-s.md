@@ -1,11 +1,11 @@
 ---
 description: 'After years of building popularity, software-as-a-service (SaaS) is becoming the predominant way that enterprises access core applications. Software that suppor'
 author: []
-datePublished: '2015-12-20T16:43:18.956Z'
+datePublished: '2015-12-21T15:40:16.930Z'
 publisher:
   domain: www.zdnet.com
   name: zdnet.com
-dateModified: '2015-12-16T20:29:29.948Z'
+dateModified: '2015-12-20T16:43:18.956Z'
 title: ''
 sourcePath: _posts/2015-12-20-after-years-of-building-popularity-software-as-a-service-s.md
 published: true
