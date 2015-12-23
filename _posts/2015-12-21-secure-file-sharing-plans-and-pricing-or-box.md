@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.box.com/pricing/'
 title: 'Secure File Sharing Plans and Pricing | Box'
-datePublished: '2015-12-21T15:40:16.958Z'
-dateModified: '2015-12-20T12:35:04.093Z'
+datePublished: '2015-12-23T16:22:51.110Z'
+dateModified: '2015-12-21T15:40:16.958Z'
 sourcePath: _posts/2015-12-21-secure-file-sharing-plans-and-pricing-or-box.md
 published: true
 inFeed: true
